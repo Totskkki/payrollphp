@@ -1,0 +1,1023 @@
+[14-Dec-2024 08:05:21 Europe/Berlin] Array
+(
+    [time_in] => 2024-12-14T07:05:21.582Z
+    [status] => present
+)
+
+[14-Dec-2024 08:05:21 Europe/Berlin] PHP Warning:  Undefined variable $conn in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:21 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\adminday\lib\save_attendance.php:22
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:21 Europe/Berlin] Array
+(
+    [time_in] => 2024-12-14T07:05:21.684Z
+    [status] => present
+)
+
+[14-Dec-2024 08:05:21 Europe/Berlin] PHP Warning:  Undefined variable $conn in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:21 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\adminday\lib\save_attendance.php:22
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:21 Europe/Berlin] Array
+(
+    [time_in] => 2024-12-14T07:05:21.777Z
+    [status] => present
+)
+
+[14-Dec-2024 08:05:21 Europe/Berlin] PHP Warning:  Undefined variable $conn in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:21 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\adminday\lib\save_attendance.php:22
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:21 Europe/Berlin] Array
+(
+    [time_in] => 2024-12-14T07:05:21.886Z
+    [status] => present
+)
+
+[14-Dec-2024 08:05:21 Europe/Berlin] PHP Warning:  Undefined variable $conn in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:21 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\adminday\lib\save_attendance.php:22
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:22 Europe/Berlin] Array
+(
+    [time_in] => 2024-12-14T07:05:22.090Z
+    [status] => present
+)
+
+[14-Dec-2024 08:05:22 Europe/Berlin] PHP Warning:  Undefined variable $conn in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:22 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\adminday\lib\save_attendance.php:22
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:22 Europe/Berlin] Array
+(
+    [time_in] => 2024-12-14T07:05:22.120Z
+    [status] => present
+)
+
+[14-Dec-2024 08:05:22 Europe/Berlin] PHP Warning:  Undefined variable $conn in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:22 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\adminday\lib\save_attendance.php:22
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:22 Europe/Berlin] Array
+(
+    [time_in] => 2024-12-14T07:05:22.203Z
+    [status] => present
+)
+
+[14-Dec-2024 08:05:22 Europe/Berlin] PHP Warning:  Undefined variable $conn in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:22 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\adminday\lib\save_attendance.php:22
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:22 Europe/Berlin] Array
+(
+    [time_in] => 2024-12-14T07:05:22.284Z
+    [status] => present
+)
+
+[14-Dec-2024 08:05:22 Europe/Berlin] PHP Warning:  Undefined variable $conn in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:22 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\adminday\lib\save_attendance.php:22
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:22 Europe/Berlin] Array
+(
+    [time_in] => 2024-12-14T07:05:22.381Z
+    [status] => present
+)
+
+[14-Dec-2024 08:05:22 Europe/Berlin] PHP Warning:  Undefined variable $conn in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:22 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\adminday\lib\save_attendance.php:22
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:22 Europe/Berlin] Array
+(
+    [time_in] => 2024-12-14T07:05:22.477Z
+    [status] => present
+)
+
+[14-Dec-2024 08:05:22 Europe/Berlin] PHP Warning:  Undefined variable $conn in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:22 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\adminday\lib\save_attendance.php:22
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:22 Europe/Berlin] Array
+(
+    [time_in] => 2024-12-14T07:05:22.573Z
+    [status] => present
+)
+
+[14-Dec-2024 08:05:22 Europe/Berlin] PHP Warning:  Undefined variable $conn in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:22 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\adminday\lib\save_attendance.php:22
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:22 Europe/Berlin] Array
+(
+    [time_in] => 2024-12-14T07:05:22.681Z
+    [status] => present
+)
+
+[14-Dec-2024 08:05:22 Europe/Berlin] PHP Warning:  Undefined variable $conn in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:22 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\adminday\lib\save_attendance.php:22
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:22 Europe/Berlin] Array
+(
+    [time_in] => 2024-12-14T07:05:22.777Z
+    [status] => present
+)
+
+[14-Dec-2024 08:05:22 Europe/Berlin] PHP Warning:  Undefined variable $conn in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:22 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\adminday\lib\save_attendance.php:22
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:22 Europe/Berlin] Array
+(
+    [time_in] => 2024-12-14T07:05:22.905Z
+    [status] => present
+)
+
+[14-Dec-2024 08:05:22 Europe/Berlin] PHP Warning:  Undefined variable $conn in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:22 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\adminday\lib\save_attendance.php:22
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:23 Europe/Berlin] Array
+(
+    [time_in] => 2024-12-14T07:05:23.113Z
+    [status] => present
+)
+
+[14-Dec-2024 08:05:23 Europe/Berlin] PHP Warning:  Undefined variable $conn in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:23 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\adminday\lib\save_attendance.php:22
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:23 Europe/Berlin] Array
+(
+    [time_in] => 2024-12-14T07:05:23.119Z
+    [status] => present
+)
+
+[14-Dec-2024 08:05:23 Europe/Berlin] PHP Warning:  Undefined variable $conn in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:23 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\adminday\lib\save_attendance.php:22
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:23 Europe/Berlin] Array
+(
+    [time_in] => 2024-12-14T07:05:23.202Z
+    [status] => present
+)
+
+[14-Dec-2024 08:05:23 Europe/Berlin] PHP Warning:  Undefined variable $conn in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:23 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\adminday\lib\save_attendance.php:22
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:23 Europe/Berlin] Array
+(
+    [time_in] => 2024-12-14T07:05:23.286Z
+    [status] => present
+)
+
+[14-Dec-2024 08:05:23 Europe/Berlin] PHP Warning:  Undefined variable $conn in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:23 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\adminday\lib\save_attendance.php:22
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:23 Europe/Berlin] Array
+(
+    [time_in] => 2024-12-14T07:05:23.369Z
+    [status] => present
+)
+
+[14-Dec-2024 08:05:23 Europe/Berlin] PHP Warning:  Undefined variable $conn in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:23 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\adminday\lib\save_attendance.php:22
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:23 Europe/Berlin] Array
+(
+    [time_in] => 2024-12-14T07:05:23.479Z
+    [status] => present
+)
+
+[14-Dec-2024 08:05:23 Europe/Berlin] PHP Warning:  Undefined variable $conn in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:23 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\adminday\lib\save_attendance.php:22
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:23 Europe/Berlin] Array
+(
+    [time_in] => 2024-12-14T07:05:23.580Z
+    [status] => present
+)
+
+[14-Dec-2024 08:05:23 Europe/Berlin] PHP Warning:  Undefined variable $conn in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:23 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\adminday\lib\save_attendance.php:22
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:23 Europe/Berlin] Array
+(
+    [time_in] => 2024-12-14T07:05:23.677Z
+    [status] => present
+)
+
+[14-Dec-2024 08:05:23 Europe/Berlin] PHP Warning:  Undefined variable $conn in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:23 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\adminday\lib\save_attendance.php:22
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:23 Europe/Berlin] Array
+(
+    [time_in] => 2024-12-14T07:05:23.783Z
+    [status] => present
+)
+
+[14-Dec-2024 08:05:23 Europe/Berlin] PHP Warning:  Undefined variable $conn in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:23 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\adminday\lib\save_attendance.php:22
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:23 Europe/Berlin] Array
+(
+    [time_in] => 2024-12-14T07:05:23.896Z
+    [status] => present
+)
+
+[14-Dec-2024 08:05:23 Europe/Berlin] PHP Warning:  Undefined variable $conn in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:23 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\adminday\lib\save_attendance.php:22
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:24 Europe/Berlin] Array
+(
+    [time_in] => 2024-12-14T07:05:24.076Z
+    [status] => present
+)
+
+[14-Dec-2024 08:05:24 Europe/Berlin] PHP Warning:  Undefined variable $conn in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:24 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\adminday\lib\save_attendance.php:22
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:24 Europe/Berlin] Array
+(
+    [time_in] => 2024-12-14T07:05:24.103Z
+    [status] => present
+)
+
+[14-Dec-2024 08:05:24 Europe/Berlin] PHP Warning:  Undefined variable $conn in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:24 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\adminday\lib\save_attendance.php:22
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:24 Europe/Berlin] Array
+(
+    [time_in] => 2024-12-14T07:05:24.192Z
+    [status] => present
+)
+
+[14-Dec-2024 08:05:24 Europe/Berlin] PHP Warning:  Undefined variable $conn in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:24 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\adminday\lib\save_attendance.php:22
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:24 Europe/Berlin] Array
+(
+    [time_in] => 2024-12-14T07:05:24.285Z
+    [status] => present
+)
+
+[14-Dec-2024 08:05:24 Europe/Berlin] PHP Warning:  Undefined variable $conn in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:24 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\adminday\lib\save_attendance.php:22
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:24 Europe/Berlin] Array
+(
+    [time_in] => 2024-12-14T07:05:24.384Z
+    [status] => present
+)
+
+[14-Dec-2024 08:05:24 Europe/Berlin] PHP Warning:  Undefined variable $conn in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:24 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\adminday\lib\save_attendance.php:22
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:24 Europe/Berlin] Array
+(
+    [time_in] => 2024-12-14T07:05:24.481Z
+    [status] => present
+)
+
+[14-Dec-2024 08:05:24 Europe/Berlin] PHP Warning:  Undefined variable $conn in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:24 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\adminday\lib\save_attendance.php:22
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:24 Europe/Berlin] Array
+(
+    [time_in] => 2024-12-14T07:05:24.581Z
+    [status] => present
+)
+
+[14-Dec-2024 08:05:24 Europe/Berlin] PHP Warning:  Undefined variable $conn in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:24 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\adminday\lib\save_attendance.php:22
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:24 Europe/Berlin] Array
+(
+    [time_in] => 2024-12-14T07:05:24.690Z
+    [status] => present
+)
+
+[14-Dec-2024 08:05:24 Europe/Berlin] PHP Warning:  Undefined variable $conn in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:24 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\adminday\lib\save_attendance.php:22
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:24 Europe/Berlin] Array
+(
+    [time_in] => 2024-12-14T07:05:24.789Z
+    [status] => present
+)
+
+[14-Dec-2024 08:05:24 Europe/Berlin] PHP Warning:  Undefined variable $conn in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:24 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\adminday\lib\save_attendance.php:22
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:25 Europe/Berlin] Array
+(
+    [time_in] => 2024-12-14T07:05:25.057Z
+    [status] => present
+)
+
+[14-Dec-2024 08:05:25 Europe/Berlin] PHP Warning:  Undefined variable $conn in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:25 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\adminday\lib\save_attendance.php:22
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:25 Europe/Berlin] Array
+(
+    [time_in] => 2024-12-14T07:05:25.123Z
+    [status] => present
+)
+
+[14-Dec-2024 08:05:25 Europe/Berlin] Array
+(
+    [time_in] => 2024-12-14T07:05:25.125Z
+    [status] => present
+)
+
+[14-Dec-2024 08:05:25 Europe/Berlin] PHP Warning:  Undefined variable $conn in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:25 Europe/Berlin] PHP Warning:  Undefined variable $conn in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:25 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\adminday\lib\save_attendance.php:22
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:25 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\adminday\lib\save_attendance.php:22
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:25 Europe/Berlin] Array
+(
+    [time_in] => 2024-12-14T07:05:25.215Z
+    [status] => present
+)
+
+[14-Dec-2024 08:05:25 Europe/Berlin] PHP Warning:  Undefined variable $conn in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:25 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\adminday\lib\save_attendance.php:22
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:25 Europe/Berlin] Array
+(
+    [time_in] => 2024-12-14T07:05:25.297Z
+    [status] => present
+)
+
+[14-Dec-2024 08:05:25 Europe/Berlin] PHP Warning:  Undefined variable $conn in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:25 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\adminday\lib\save_attendance.php:22
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:25 Europe/Berlin] Array
+(
+    [time_in] => 2024-12-14T07:05:25.388Z
+    [status] => present
+)
+
+[14-Dec-2024 08:05:25 Europe/Berlin] PHP Warning:  Undefined variable $conn in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:25 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\adminday\lib\save_attendance.php:22
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:25 Europe/Berlin] Array
+(
+    [time_in] => 2024-12-14T07:05:25.477Z
+    [status] => present
+)
+
+[14-Dec-2024 08:05:25 Europe/Berlin] PHP Warning:  Undefined variable $conn in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:25 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\adminday\lib\save_attendance.php:22
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:25 Europe/Berlin] Array
+(
+    [time_in] => 2024-12-14T07:05:25.583Z
+    [status] => present
+)
+
+[14-Dec-2024 08:05:25 Europe/Berlin] PHP Warning:  Undefined variable $conn in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:25 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\adminday\lib\save_attendance.php:22
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:25 Europe/Berlin] Array
+(
+    [time_in] => 2024-12-14T07:05:25.683Z
+    [status] => present
+)
+
+[14-Dec-2024 08:05:25 Europe/Berlin] PHP Warning:  Undefined variable $conn in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:25 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\adminday\lib\save_attendance.php:22
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:25 Europe/Berlin] Array
+(
+    [time_in] => 2024-12-14T07:05:25.778Z
+    [status] => present
+)
+
+[14-Dec-2024 08:05:25 Europe/Berlin] PHP Warning:  Undefined variable $conn in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:25 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\adminday\lib\save_attendance.php:22
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:25 Europe/Berlin] Array
+(
+    [time_in] => 2024-12-14T07:05:25.882Z
+    [status] => present
+)
+
+[14-Dec-2024 08:05:25 Europe/Berlin] PHP Warning:  Undefined variable $conn in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:25 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\adminday\lib\save_attendance.php:22
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:26 Europe/Berlin] Array
+(
+    [time_in] => 2024-12-14T07:05:26.076Z
+    [status] => present
+)
+
+[14-Dec-2024 08:05:26 Europe/Berlin] PHP Warning:  Undefined variable $conn in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:26 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\adminday\lib\save_attendance.php:22
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:26 Europe/Berlin] Array
+(
+    [time_in] => 2024-12-14T07:05:26.097Z
+    [status] => present
+)
+
+[14-Dec-2024 08:05:26 Europe/Berlin] PHP Warning:  Undefined variable $conn in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:26 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\adminday\lib\save_attendance.php:22
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:26 Europe/Berlin] Array
+(
+    [time_in] => 2024-12-14T07:05:26.186Z
+    [status] => present
+)
+
+[14-Dec-2024 08:05:26 Europe/Berlin] PHP Warning:  Undefined variable $conn in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:26 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\adminday\lib\save_attendance.php:22
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:26 Europe/Berlin] Array
+(
+    [time_in] => 2024-12-14T07:05:26.304Z
+    [status] => present
+)
+
+[14-Dec-2024 08:05:26 Europe/Berlin] PHP Warning:  Undefined variable $conn in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:26 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\adminday\lib\save_attendance.php:22
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:26 Europe/Berlin] Array
+(
+    [time_in] => 2024-12-14T07:05:26.380Z
+    [status] => present
+)
+
+[14-Dec-2024 08:05:26 Europe/Berlin] PHP Warning:  Undefined variable $conn in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:26 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\adminday\lib\save_attendance.php:22
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:26 Europe/Berlin] Array
+(
+    [time_in] => 2024-12-14T07:05:26.485Z
+    [status] => present
+)
+
+[14-Dec-2024 08:05:26 Europe/Berlin] PHP Warning:  Undefined variable $conn in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:26 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\adminday\lib\save_attendance.php:22
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:27 Europe/Berlin] Array
+(
+    [time_in] => 2024-12-14T07:05:27.852Z
+    [status] => present
+)
+
+[14-Dec-2024 08:05:27 Europe/Berlin] PHP Warning:  Undefined variable $conn in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:27 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\adminday\lib\save_attendance.php:22
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:29 Europe/Berlin] Array
+(
+    [time_in] => 2024-12-14T07:05:29.853Z
+    [status] => present
+)
+
+[14-Dec-2024 08:05:29 Europe/Berlin] PHP Warning:  Undefined variable $conn in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:29 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\adminday\lib\save_attendance.php:22
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:30 Europe/Berlin] Array
+(
+    [time_in] => 2024-12-14T07:05:30.860Z
+    [status] => present
+)
+
+[14-Dec-2024 08:05:30 Europe/Berlin] PHP Warning:  Undefined variable $conn in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:30 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\adminday\lib\save_attendance.php:22
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:31 Europe/Berlin] Array
+(
+    [time_in] => 2024-12-14T07:05:31.853Z
+    [status] => present
+)
+
+[14-Dec-2024 08:05:31 Europe/Berlin] PHP Warning:  Undefined variable $conn in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:31 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\adminday\lib\save_attendance.php:22
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:32 Europe/Berlin] Array
+(
+    [time_in] => 2024-12-14T07:05:32.861Z
+    [status] => present
+)
+
+[14-Dec-2024 08:05:32 Europe/Berlin] PHP Warning:  Undefined variable $conn in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:32 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\adminday\lib\save_attendance.php:22
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:33 Europe/Berlin] Array
+(
+    [time_in] => 2024-12-14T07:05:33.852Z
+    [status] => present
+)
+
+[14-Dec-2024 08:05:33 Europe/Berlin] PHP Warning:  Undefined variable $conn in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:33 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\adminday\lib\save_attendance.php:22
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:34 Europe/Berlin] Array
+(
+    [time_in] => 2024-12-14T07:05:34.851Z
+    [status] => present
+)
+
+[14-Dec-2024 08:05:34 Europe/Berlin] PHP Warning:  Undefined variable $conn in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:34 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\adminday\lib\save_attendance.php:22
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:35 Europe/Berlin] Array
+(
+    [time_in] => 2024-12-14T07:05:35.862Z
+    [status] => present
+)
+
+[14-Dec-2024 08:05:35 Europe/Berlin] PHP Warning:  Undefined variable $conn in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:35 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\adminday\lib\save_attendance.php:22
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:36 Europe/Berlin] Array
+(
+    [time_in] => 2024-12-14T07:05:36.853Z
+    [status] => present
+)
+
+[14-Dec-2024 08:05:36 Europe/Berlin] PHP Warning:  Undefined variable $conn in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:36 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\adminday\lib\save_attendance.php:22
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:37 Europe/Berlin] Array
+(
+    [time_in] => 2024-12-14T07:05:37.851Z
+    [status] => present
+)
+
+[14-Dec-2024 08:05:37 Europe/Berlin] PHP Warning:  Undefined variable $conn in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:37 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\adminday\lib\save_attendance.php:22
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:38 Europe/Berlin] Array
+(
+    [time_in] => 2024-12-14T07:05:38.856Z
+    [status] => present
+)
+
+[14-Dec-2024 08:05:38 Europe/Berlin] PHP Warning:  Undefined variable $conn in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:38 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\adminday\lib\save_attendance.php:22
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:39 Europe/Berlin] Array
+(
+    [time_in] => 2024-12-14T07:05:39.854Z
+    [status] => present
+)
+
+[14-Dec-2024 08:05:39 Europe/Berlin] PHP Warning:  Undefined variable $conn in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:39 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\adminday\lib\save_attendance.php:22
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:40 Europe/Berlin] Array
+(
+    [time_in] => 2024-12-14T07:05:40.852Z
+    [status] => present
+)
+
+[14-Dec-2024 08:05:40 Europe/Berlin] PHP Warning:  Undefined variable $conn in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:40 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\adminday\lib\save_attendance.php:22
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:41 Europe/Berlin] Array
+(
+    [time_in] => 2024-12-14T07:05:41.851Z
+    [status] => present
+)
+
+[14-Dec-2024 08:05:41 Europe/Berlin] PHP Warning:  Undefined variable $conn in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:41 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\adminday\lib\save_attendance.php:22
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:42 Europe/Berlin] Array
+(
+    [time_in] => 2024-12-14T07:05:42.853Z
+    [status] => present
+)
+
+[14-Dec-2024 08:05:42 Europe/Berlin] PHP Warning:  Undefined variable $conn in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:42 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\adminday\lib\save_attendance.php:22
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:43 Europe/Berlin] Array
+(
+    [time_in] => 2024-12-14T07:05:43.851Z
+    [status] => present
+)
+
+[14-Dec-2024 08:05:43 Europe/Berlin] PHP Warning:  Undefined variable $conn in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:43 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\adminday\lib\save_attendance.php:22
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:44 Europe/Berlin] Array
+(
+    [time_in] => 2024-12-14T07:05:44.851Z
+    [status] => present
+)
+
+[14-Dec-2024 08:05:44 Europe/Berlin] PHP Warning:  Undefined variable $conn in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:44 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\adminday\lib\save_attendance.php:22
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:45 Europe/Berlin] Array
+(
+    [time_in] => 2024-12-14T07:05:45.851Z
+    [status] => present
+)
+
+[14-Dec-2024 08:05:45 Europe/Berlin] PHP Warning:  Undefined variable $conn in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:45 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\adminday\lib\save_attendance.php:22
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:46 Europe/Berlin] Array
+(
+    [time_in] => 2024-12-14T07:05:46.851Z
+    [status] => present
+)
+
+[14-Dec-2024 08:05:46 Europe/Berlin] PHP Warning:  Undefined variable $conn in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:46 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\adminday\lib\save_attendance.php:22
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:47 Europe/Berlin] Array
+(
+    [time_in] => 2024-12-14T07:05:47.853Z
+    [status] => present
+)
+
+[14-Dec-2024 08:05:47 Europe/Berlin] PHP Warning:  Undefined variable $conn in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:47 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\adminday\lib\save_attendance.php:22
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:48 Europe/Berlin] Array
+(
+    [time_in] => 2024-12-14T07:05:48.848Z
+    [status] => present
+)
+
+[14-Dec-2024 08:05:48 Europe/Berlin] PHP Warning:  Undefined variable $conn in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:48 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\adminday\lib\save_attendance.php:22
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:49 Europe/Berlin] Array
+(
+    [time_in] => 2024-12-14T07:05:49.008Z
+    [status] => present
+)
+
+[14-Dec-2024 08:05:49 Europe/Berlin] PHP Warning:  Undefined variable $conn in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:49 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\adminday\lib\save_attendance.php:22
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:49 Europe/Berlin] Array
+(
+    [time_in] => 2024-12-14T07:05:49.162Z
+    [status] => present
+)
+
+[14-Dec-2024 08:05:49 Europe/Berlin] PHP Warning:  Undefined variable $conn in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:49 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\adminday\lib\save_attendance.php:22
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:49 Europe/Berlin] Array
+(
+    [time_in] => 2024-12-14T07:05:49.244Z
+    [status] => present
+)
+
+[14-Dec-2024 08:05:49 Europe/Berlin] PHP Warning:  Undefined variable $conn in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:49 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\adminday\lib\save_attendance.php:22
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:49 Europe/Berlin] Array
+(
+    [time_in] => 2024-12-14T07:05:49.269Z
+    [status] => present
+)
+
+[14-Dec-2024 08:05:49 Europe/Berlin] Array
+(
+    [time_in] => 2024-12-14T07:05:49.267Z
+    [status] => present
+)
+
+[14-Dec-2024 08:05:49 Europe/Berlin] PHP Warning:  Undefined variable $conn in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:49 Europe/Berlin] PHP Warning:  Undefined variable $conn in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:49 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\adminday\lib\save_attendance.php:22
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:49 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\adminday\lib\save_attendance.php:22
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:49 Europe/Berlin] Array
+(
+    [time_in] => 2024-12-14T07:05:49.334Z
+    [status] => present
+)
+
+[14-Dec-2024 08:05:49 Europe/Berlin] PHP Warning:  Undefined variable $conn in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:49 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\adminday\lib\save_attendance.php:22
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:49 Europe/Berlin] Array
+(
+    [time_in] => 2024-12-14T07:05:49.852Z
+    [status] => present
+)
+
+[14-Dec-2024 08:05:49 Europe/Berlin] PHP Warning:  Undefined variable $conn in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:49 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\adminday\lib\save_attendance.php:22
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:50 Europe/Berlin] Array
+(
+    [time_in] => 2024-12-14T07:05:50.853Z
+    [status] => present
+)
+
+[14-Dec-2024 08:05:50 Europe/Berlin] PHP Warning:  Undefined variable $conn in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:50 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\adminday\lib\save_attendance.php:22
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:51 Europe/Berlin] Array
+(
+    [time_in] => 2024-12-14T07:05:51.853Z
+    [status] => present
+)
+
+[14-Dec-2024 08:05:51 Europe/Berlin] PHP Warning:  Undefined variable $conn in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:51 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\adminday\lib\save_attendance.php:22
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:52 Europe/Berlin] Array
+(
+    [time_in] => 2024-12-14T07:05:52.854Z
+    [status] => present
+)
+
+[14-Dec-2024 08:05:52 Europe/Berlin] PHP Warning:  Undefined variable $conn in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:52 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\adminday\lib\save_attendance.php:22
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:53 Europe/Berlin] Array
+(
+    [time_in] => 2024-12-14T07:05:53.854Z
+    [status] => present
+)
+
+[14-Dec-2024 08:05:53 Europe/Berlin] PHP Warning:  Undefined variable $conn in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:53 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\adminday\lib\save_attendance.php:22
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:54 Europe/Berlin] Array
+(
+    [time_in] => 2024-12-14T07:05:54.856Z
+    [status] => present
+)
+
+[14-Dec-2024 08:05:54 Europe/Berlin] PHP Warning:  Undefined variable $conn in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:54 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\adminday\lib\save_attendance.php:22
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:55 Europe/Berlin] Array
+(
+    [time_in] => 2024-12-14T07:05:55.854Z
+    [status] => present
+)
+
+[14-Dec-2024 08:05:55 Europe/Berlin] PHP Warning:  Undefined variable $conn in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:55 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\adminday\lib\save_attendance.php:22
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:56 Europe/Berlin] Array
+(
+    [time_in] => 2024-12-14T07:05:56.852Z
+    [status] => present
+)
+
+[14-Dec-2024 08:05:56 Europe/Berlin] PHP Warning:  Undefined variable $conn in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:56 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\adminday\lib\save_attendance.php:22
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:56 Europe/Berlin] Array
+(
+    [time_in] => 2024-12-14T07:05:56.934Z
+    [status] => present
+)
+
+[14-Dec-2024 08:05:56 Europe/Berlin] PHP Warning:  Undefined variable $conn in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:56 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\adminday\lib\save_attendance.php:22
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:57 Europe/Berlin] Array
+(
+    [time_in] => 2024-12-14T07:05:57.091Z
+    [status] => present
+)
+
+[14-Dec-2024 08:05:57 Europe/Berlin] PHP Warning:  Undefined variable $conn in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:57 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\adminday\lib\save_attendance.php:22
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:57 Europe/Berlin] Array
+(
+    [time_in] => 2024-12-14T07:05:57.122Z
+    [status] => present
+)
+
+[14-Dec-2024 08:05:57 Europe/Berlin] PHP Warning:  Undefined variable $conn in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:57 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\adminday\lib\save_attendance.php:22
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:57 Europe/Berlin] Array
+(
+    [time_in] => 2024-12-14T07:05:57.190Z
+    [status] => present
+)
+
+[14-Dec-2024 08:05:57 Europe/Berlin] PHP Warning:  Undefined variable $conn in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:57 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\adminday\lib\save_attendance.php:22
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:57 Europe/Berlin] Array
+(
+    [time_in] => 2024-12-14T07:05:57.242Z
+    [status] => present
+)
+
+[14-Dec-2024 08:05:57 Europe/Berlin] PHP Warning:  Undefined variable $conn in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:57 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\adminday\lib\save_attendance.php:22
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:57 Europe/Berlin] Array
+(
+    [time_in] => 2024-12-14T07:05:57.379Z
+    [status] => present
+)
+
+[14-Dec-2024 08:05:57 Europe/Berlin] PHP Warning:  Undefined variable $conn in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:57 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\adminday\lib\save_attendance.php:22
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:57 Europe/Berlin] Array
+(
+    [time_in] => 2024-12-14T07:05:57.411Z
+    [status] => present
+)
+
+[14-Dec-2024 08:05:57 Europe/Berlin] PHP Warning:  Undefined variable $conn in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:57 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\adminday\lib\save_attendance.php:22
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:57 Europe/Berlin] Array
+(
+    [time_in] => 2024-12-14T07:05:57.486Z
+    [status] => present
+)
+
+[14-Dec-2024 08:05:57 Europe/Berlin] PHP Warning:  Undefined variable $conn in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22
+[14-Dec-2024 08:05:57 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\adminday\lib\save_attendance.php:22
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\adminday\lib\save_attendance.php on line 22

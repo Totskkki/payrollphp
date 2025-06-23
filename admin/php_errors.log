@@ -1,0 +1,292 @@
+[22-Jan-2025 10:52:00 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown table 'jvpayroll.allowance' in C:\xampp\htdocs\jvpayroll\admin\reports_other-deductions.php:162
+Stack trace:
+#0 C:\xampp\htdocs\jvpayroll\admin\reports_other-deductions.php(162): mysqli->query('SELECT de.*, al...')
+#1 {main}
+  thrown in C:\xampp\htdocs\jvpayroll\admin\reports_other-deductions.php on line 162
+[22-Jan-2025 10:52:08 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'd.created_at' in 'on clause' in C:\xampp\htdocs\jvpayroll\admin\reports_other-deductions.php:162
+Stack trace:
+#0 C:\xampp\htdocs\jvpayroll\admin\reports_other-deductions.php(162): mysqli->query('SELECT de.*, de...')
+#1 {main}
+  thrown in C:\xampp\htdocs\jvpayroll\admin\reports_other-deductions.php on line 162
+[22-Jan-2025 10:52:27 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'd.allempid' in 'order clause' in C:\xampp\htdocs\jvpayroll\admin\reports_other-deductions.php:162
+Stack trace:
+#0 C:\xampp\htdocs\jvpayroll\admin\reports_other-deductions.php(162): mysqli->query('SELECT de.*, de...')
+#1 {main}
+  thrown in C:\xampp\htdocs\jvpayroll\admin\reports_other-deductions.php on line 162
+[22-Jan-2025 10:52:29 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'd.allempid' in 'order clause' in C:\xampp\htdocs\jvpayroll\admin\reports_other-deductions.php:162
+Stack trace:
+#0 C:\xampp\htdocs\jvpayroll\admin\reports_other-deductions.php(162): mysqli->query('SELECT de.*, de...')
+#1 {main}
+  thrown in C:\xampp\htdocs\jvpayroll\admin\reports_other-deductions.php on line 162
+[22-Jan-2025 10:52:43 Asia/Manila] PHP Warning:  Undefined array key "allowance" in C:\xampp\htdocs\jvpayroll\admin\reports_other-deductions.php on line 175
+[22-Jan-2025 10:52:43 Asia/Manila] PHP Warning:  Undefined array key "allowance_type" in C:\xampp\htdocs\jvpayroll\admin\reports_other-deductions.php on line 176
+[22-Jan-2025 10:52:43 Asia/Manila] PHP Warning:  Undefined array key "allowance" in C:\xampp\htdocs\jvpayroll\admin\reports_other-deductions.php on line 175
+[22-Jan-2025 10:52:43 Asia/Manila] PHP Warning:  Undefined array key "allowance_type" in C:\xampp\htdocs\jvpayroll\admin\reports_other-deductions.php on line 176
+[22-Jan-2025 10:52:43 Asia/Manila] PHP Warning:  Undefined array key "allowance" in C:\xampp\htdocs\jvpayroll\admin\reports_other-deductions.php on line 175
+[22-Jan-2025 10:52:43 Asia/Manila] PHP Warning:  Undefined array key "allowance_type" in C:\xampp\htdocs\jvpayroll\admin\reports_other-deductions.php on line 176
+[22-Jan-2025 10:52:43 Asia/Manila] PHP Warning:  Undefined array key "allowance" in C:\xampp\htdocs\jvpayroll\admin\reports_other-deductions.php on line 175
+[22-Jan-2025 10:52:43 Asia/Manila] PHP Warning:  Undefined array key "allowance_type" in C:\xampp\htdocs\jvpayroll\admin\reports_other-deductions.php on line 176
+[22-Jan-2025 10:52:43 Asia/Manila] PHP Warning:  Undefined array key "allowance" in C:\xampp\htdocs\jvpayroll\admin\reports_other-deductions.php on line 175
+[22-Jan-2025 10:52:43 Asia/Manila] PHP Warning:  Undefined array key "allowance_type" in C:\xampp\htdocs\jvpayroll\admin\reports_other-deductions.php on line 176
+[22-Jan-2025 11:41:47 Asia/Manila] Deduction Type: Weekly
+[22-Jan-2025 11:41:47 Asia/Manila] Deduction Amount: 200.00
+[22-Jan-2025 11:41:47 Asia/Manila] Deduction Type: Monthly
+[22-Jan-2025 11:41:47 Asia/Manila] Deduction Amount: 100.00
+[22-Jan-2025 11:41:47 Asia/Manila] gross_salary : 4500
+[22-Jan-2025 11:41:47 Asia/Manila] Gross Salary: 4500
+[22-Jan-2025 11:41:47 Asia/Manila] MSC: 4500
+[22-Jan-2025 11:41:47 Asia/Manila] Employee SSS: 202.5
+[22-Jan-2025 11:41:47 Asia/Manila] Employer SSS: 427.5
+[22-Jan-2025 11:41:47 Asia/Manila] Employee: Emily G Martinez 
+[22-Jan-2025 11:41:47 Asia/Manila] employee_sss : 202.5
+[22-Jan-2025 11:41:47 Asia/Manila] employer_sss : 427.5
+[22-Jan-2025 11:41:47 Asia/Manila] total_sss : 630
+[22-Jan-2025 11:41:47 Asia/Manila] deductions : 100
+[22-Jan-2025 11:41:47 Asia/Manila] Gross Salary: 4500
+[22-Jan-2025 11:41:47 Asia/Manila] Employee Mandatory Deductions: 500
+[22-Jan-2025 11:41:47 Asia/Manila] Lateness Deduction: 0
+[22-Jan-2025 11:41:47 Asia/Manila] Undertime Deduction: 0
+[22-Jan-2025 11:41:47 Asia/Manila] Net Salary: 3797.5
+[22-Jan-2025 11:41:47 Asia/Manila] Payroll Period: monthly
+[22-Jan-2025 11:41:47 Asia/Manila] No deductions found for employee ID: 7
+[22-Jan-2025 11:41:47 Asia/Manila] gross_salary : 4500
+[22-Jan-2025 11:41:47 Asia/Manila] Gross Salary: 4500
+[22-Jan-2025 11:41:47 Asia/Manila] MSC: 4500
+[22-Jan-2025 11:41:47 Asia/Manila] Employee SSS: 202.5
+[22-Jan-2025 11:41:47 Asia/Manila] Employer SSS: 427.5
+[22-Jan-2025 11:41:47 Asia/Manila] Employee: Harry S Susamin 
+[22-Jan-2025 11:41:47 Asia/Manila] employee_sss : 202.5
+[22-Jan-2025 11:41:47 Asia/Manila] employer_sss : 427.5
+[22-Jan-2025 11:41:47 Asia/Manila] total_sss : 630
+[22-Jan-2025 11:41:47 Asia/Manila] deductions : 0
+[22-Jan-2025 11:41:47 Asia/Manila] Gross Salary: 4500
+[22-Jan-2025 11:41:47 Asia/Manila] Employee Mandatory Deductions: 400
+[22-Jan-2025 11:41:47 Asia/Manila] Lateness Deduction: 0
+[22-Jan-2025 11:41:47 Asia/Manila] Undertime Deduction: 0
+[22-Jan-2025 11:41:47 Asia/Manila] Net Salary: 3897.5
+[22-Jan-2025 11:41:47 Asia/Manila] Payroll Period: monthly
+[22-Jan-2025 11:41:47 Asia/Manila] No deductions found for employee ID: 5
+[22-Jan-2025 11:41:47 Asia/Manila] Gross Salary: 4050
+[22-Jan-2025 11:41:47 Asia/Manila] MSC: 4000
+[22-Jan-2025 11:41:47 Asia/Manila] Employee SSS: 180
+[22-Jan-2025 11:41:47 Asia/Manila] Employer SSS: 380
+[22-Jan-2025 11:41:47 Asia/Manila] Employee: Irlan  Magsangyaw 
+[22-Jan-2025 11:41:47 Asia/Manila] employee_sss : 180
+[22-Jan-2025 11:41:47 Asia/Manila] employer_sss : 380
+[22-Jan-2025 11:41:47 Asia/Manila] total_sss : 560
+[22-Jan-2025 11:41:47 Asia/Manila] deductions : 0
+[22-Jan-2025 11:41:47 Asia/Manila] Gross Salary: 4050
+[22-Jan-2025 11:41:47 Asia/Manila] Employee Mandatory Deductions: 400
+[22-Jan-2025 11:41:47 Asia/Manila] Lateness Deduction: 0
+[22-Jan-2025 11:41:47 Asia/Manila] Undertime Deduction: 0
+[22-Jan-2025 11:41:47 Asia/Manila] Net Salary: 3470
+[22-Jan-2025 11:41:47 Asia/Manila] Payroll Period: monthly
+[22-Jan-2025 11:41:47 Asia/Manila] No deductions found for employee ID: 4
+[22-Jan-2025 11:41:47 Asia/Manila] Gross Salary: 2700
+[22-Jan-2025 11:41:47 Asia/Manila] MSC: 4000
+[22-Jan-2025 11:41:47 Asia/Manila] Employee SSS: 180
+[22-Jan-2025 11:41:47 Asia/Manila] Employer SSS: 380
+[22-Jan-2025 11:41:47 Asia/Manila] Employee: Ivy  Ivy 
+[22-Jan-2025 11:41:47 Asia/Manila] employee_sss : 180
+[22-Jan-2025 11:41:47 Asia/Manila] employer_sss : 380
+[22-Jan-2025 11:41:47 Asia/Manila] total_sss : 560
+[22-Jan-2025 11:41:47 Asia/Manila] deductions : 0
+[22-Jan-2025 11:41:47 Asia/Manila] Gross Salary: 2700
+[22-Jan-2025 11:41:47 Asia/Manila] Employee Mandatory Deductions: 400
+[22-Jan-2025 11:41:47 Asia/Manila] Lateness Deduction: 0
+[22-Jan-2025 11:41:47 Asia/Manila] Undertime Deduction: 37.5
+[22-Jan-2025 11:41:47 Asia/Manila] Net Salary: 2082.5
+[22-Jan-2025 11:41:47 Asia/Manila] Payroll Period: monthly
+[22-Jan-2025 11:41:47 Asia/Manila] No deductions found for employee ID: 9
+[22-Jan-2025 11:41:47 Asia/Manila] gross_salary : 4500
+[22-Jan-2025 11:41:47 Asia/Manila] Gross Salary: 4500
+[22-Jan-2025 11:41:47 Asia/Manila] MSC: 4500
+[22-Jan-2025 11:41:47 Asia/Manila] Employee SSS: 202.5
+[22-Jan-2025 11:41:47 Asia/Manila] Employer SSS: 427.5
+[22-Jan-2025 11:41:47 Asia/Manila] Employee: James M Taylor 
+[22-Jan-2025 11:41:47 Asia/Manila] employee_sss : 202.5
+[22-Jan-2025 11:41:47 Asia/Manila] employer_sss : 427.5
+[22-Jan-2025 11:41:47 Asia/Manila] total_sss : 630
+[22-Jan-2025 11:41:47 Asia/Manila] deductions : 0
+[22-Jan-2025 11:41:47 Asia/Manila] Gross Salary: 4500
+[22-Jan-2025 11:41:47 Asia/Manila] Employee Mandatory Deductions: 400
+[22-Jan-2025 11:41:47 Asia/Manila] Lateness Deduction: 0
+[22-Jan-2025 11:41:47 Asia/Manila] Undertime Deduction: 0
+[22-Jan-2025 11:41:47 Asia/Manila] Net Salary: 3897.5
+[22-Jan-2025 11:41:47 Asia/Manila] Payroll Period: monthly
+[22-Jan-2025 11:41:47 Asia/Manila] Deduction Type: Weekly
+[22-Jan-2025 11:41:47 Asia/Manila] Deduction Amount: 200.00
+[22-Jan-2025 11:41:47 Asia/Manila] Deduction Type: Monthly
+[22-Jan-2025 11:41:47 Asia/Manila] Deduction Amount: 100.00
+[22-Jan-2025 11:41:47 Asia/Manila] Gross Salary: 4170
+[22-Jan-2025 11:41:47 Asia/Manila] MSC: 4000
+[22-Jan-2025 11:41:47 Asia/Manila] Employee SSS: 180
+[22-Jan-2025 11:41:47 Asia/Manila] Employer SSS: 380
+[22-Jan-2025 11:41:47 Asia/Manila] Employee: Marjun V Malintad 
+[22-Jan-2025 11:41:47 Asia/Manila] employee_sss : 180
+[22-Jan-2025 11:41:47 Asia/Manila] employer_sss : 380
+[22-Jan-2025 11:41:47 Asia/Manila] total_sss : 560
+[22-Jan-2025 11:41:47 Asia/Manila] deductions : 100
+[22-Jan-2025 11:41:47 Asia/Manila] Gross Salary: 4170
+[22-Jan-2025 11:41:47 Asia/Manila] Employee Mandatory Deductions: 500
+[22-Jan-2025 11:41:47 Asia/Manila] Lateness Deduction: 0
+[22-Jan-2025 11:41:47 Asia/Manila] Undertime Deduction: 0
+[22-Jan-2025 11:41:47 Asia/Manila] Net Salary: 3490
+[22-Jan-2025 11:41:47 Asia/Manila] Payroll Period: monthly
+[22-Jan-2025 11:41:47 Asia/Manila] No deductions found for employee ID: 10
+[22-Jan-2025 11:41:47 Asia/Manila] gross_salary : 4500
+[22-Jan-2025 11:41:47 Asia/Manila] Gross Salary: 4500
+[22-Jan-2025 11:41:47 Asia/Manila] MSC: 4500
+[22-Jan-2025 11:41:47 Asia/Manila] Employee SSS: 202.5
+[22-Jan-2025 11:41:47 Asia/Manila] Employer SSS: 427.5
+[22-Jan-2025 11:41:47 Asia/Manila] Employee: Mary A Wilson 
+[22-Jan-2025 11:41:47 Asia/Manila] employee_sss : 202.5
+[22-Jan-2025 11:41:47 Asia/Manila] employer_sss : 427.5
+[22-Jan-2025 11:41:47 Asia/Manila] total_sss : 630
+[22-Jan-2025 11:41:47 Asia/Manila] deductions : 0
+[22-Jan-2025 11:41:47 Asia/Manila] Gross Salary: 4500
+[22-Jan-2025 11:41:47 Asia/Manila] Employee Mandatory Deductions: 400
+[22-Jan-2025 11:41:47 Asia/Manila] Lateness Deduction: 0
+[22-Jan-2025 11:41:47 Asia/Manila] Undertime Deduction: 0
+[22-Jan-2025 11:41:47 Asia/Manila] Net Salary: 3897.5
+[22-Jan-2025 11:41:47 Asia/Manila] Payroll Period: monthly
+[22-Jan-2025 11:41:47 Asia/Manila] No deductions found for employee ID: 13
+[22-Jan-2025 11:41:47 Asia/Manila] gross_salary : 4500
+[22-Jan-2025 11:41:47 Asia/Manila] Gross Salary: 4500
+[22-Jan-2025 11:41:47 Asia/Manila] MSC: 4500
+[22-Jan-2025 11:41:47 Asia/Manila] Employee SSS: 202.5
+[22-Jan-2025 11:41:47 Asia/Manila] Employer SSS: 427.5
+[22-Jan-2025 11:41:47 Asia/Manila] Employee: Michael D Harris 
+[22-Jan-2025 11:41:47 Asia/Manila] employee_sss : 202.5
+[22-Jan-2025 11:41:47 Asia/Manila] employer_sss : 427.5
+[22-Jan-2025 11:41:47 Asia/Manila] total_sss : 630
+[22-Jan-2025 11:41:47 Asia/Manila] deductions : 0
+[22-Jan-2025 11:41:47 Asia/Manila] Gross Salary: 4500
+[22-Jan-2025 11:41:47 Asia/Manila] Employee Mandatory Deductions: 400
+[22-Jan-2025 11:41:47 Asia/Manila] Lateness Deduction: 47.8125
+[22-Jan-2025 11:41:47 Asia/Manila] Undertime Deduction: 0
+[22-Jan-2025 11:41:47 Asia/Manila] Net Salary: 3849.6875
+[22-Jan-2025 11:41:47 Asia/Manila] Payroll Period: monthly
+[22-Jan-2025 11:41:47 Asia/Manila] No deductions found for employee ID: 16
+[22-Jan-2025 11:41:47 Asia/Manila] Gross Salary: 3000
+[22-Jan-2025 11:41:47 Asia/Manila] MSC: 4000
+[22-Jan-2025 11:41:47 Asia/Manila] Employee SSS: 180
+[22-Jan-2025 11:41:47 Asia/Manila] Employer SSS: 380
+[22-Jan-2025 11:41:47 Asia/Manila] Employee: Olivia H Walker 
+[22-Jan-2025 11:41:47 Asia/Manila] employee_sss : 180
+[22-Jan-2025 11:41:47 Asia/Manila] employer_sss : 380
+[22-Jan-2025 11:41:47 Asia/Manila] total_sss : 560
+[22-Jan-2025 11:41:47 Asia/Manila] deductions : 0
+[22-Jan-2025 11:41:47 Asia/Manila] Gross Salary: 3000
+[22-Jan-2025 11:41:47 Asia/Manila] Employee Mandatory Deductions: 400
+[22-Jan-2025 11:41:47 Asia/Manila] Lateness Deduction: 31.875
+[22-Jan-2025 11:41:47 Asia/Manila] Undertime Deduction: 0
+[22-Jan-2025 11:41:47 Asia/Manila] Net Salary: 2388.125
+[22-Jan-2025 11:41:47 Asia/Manila] Payroll Period: monthly
+[22-Jan-2025 11:41:47 Asia/Manila] No deductions found for employee ID: 11
+[22-Jan-2025 11:41:47 Asia/Manila] gross_salary : 4500
+[22-Jan-2025 11:41:47 Asia/Manila] Gross Salary: 4500
+[22-Jan-2025 11:41:47 Asia/Manila] MSC: 4500
+[22-Jan-2025 11:41:47 Asia/Manila] Employee SSS: 202.5
+[22-Jan-2025 11:41:47 Asia/Manila] Employer SSS: 427.5
+[22-Jan-2025 11:41:47 Asia/Manila] Employee: Robert L Brown 
+[22-Jan-2025 11:41:47 Asia/Manila] employee_sss : 202.5
+[22-Jan-2025 11:41:47 Asia/Manila] employer_sss : 427.5
+[22-Jan-2025 11:41:47 Asia/Manila] total_sss : 630
+[22-Jan-2025 11:41:47 Asia/Manila] deductions : 0
+[22-Jan-2025 11:41:47 Asia/Manila] Gross Salary: 4500
+[22-Jan-2025 11:41:47 Asia/Manila] Employee Mandatory Deductions: 400
+[22-Jan-2025 11:41:47 Asia/Manila] Lateness Deduction: 0
+[22-Jan-2025 11:41:47 Asia/Manila] Undertime Deduction: 0
+[22-Jan-2025 11:41:47 Asia/Manila] Net Salary: 3897.5
+[22-Jan-2025 11:41:47 Asia/Manila] Payroll Period: monthly
+[22-Jan-2025 11:41:47 Asia/Manila] No deductions found for employee ID: 6
+[22-Jan-2025 11:41:47 Asia/Manila] Gross Salary: 3600
+[22-Jan-2025 11:41:47 Asia/Manila] MSC: 4000
+[22-Jan-2025 11:41:47 Asia/Manila] Employee SSS: 180
+[22-Jan-2025 11:41:47 Asia/Manila] Employer SSS: 380
+[22-Jan-2025 11:41:47 Asia/Manila] Employee: roland  magsangyaw 
+[22-Jan-2025 11:41:47 Asia/Manila] employee_sss : 180
+[22-Jan-2025 11:41:47 Asia/Manila] employer_sss : 380
+[22-Jan-2025 11:41:47 Asia/Manila] total_sss : 560
+[22-Jan-2025 11:41:47 Asia/Manila] deductions : 0
+[22-Jan-2025 11:41:47 Asia/Manila] Gross Salary: 3600
+[22-Jan-2025 11:41:47 Asia/Manila] Employee Mandatory Deductions: 400
+[22-Jan-2025 11:41:47 Asia/Manila] Lateness Deduction: 0
+[22-Jan-2025 11:41:47 Asia/Manila] Undertime Deduction: 0
+[22-Jan-2025 11:41:47 Asia/Manila] Net Salary: 3020
+[22-Jan-2025 11:41:47 Asia/Manila] Payroll Period: monthly
+[22-Jan-2025 11:41:47 Asia/Manila] No deductions found for employee ID: 3
+[22-Jan-2025 11:41:47 Asia/Manila] Gross Salary: 3700
+[22-Jan-2025 11:41:47 Asia/Manila] MSC: 4000
+[22-Jan-2025 11:41:47 Asia/Manila] Employee SSS: 180
+[22-Jan-2025 11:41:47 Asia/Manila] Employer SSS: 380
+[22-Jan-2025 11:41:47 Asia/Manila] Employee: Ronald V Roldan 
+[22-Jan-2025 11:41:47 Asia/Manila] employee_sss : 180
+[22-Jan-2025 11:41:47 Asia/Manila] employer_sss : 380
+[22-Jan-2025 11:41:47 Asia/Manila] total_sss : 560
+[22-Jan-2025 11:41:47 Asia/Manila] deductions : 0
+[22-Jan-2025 11:41:47 Asia/Manila] Gross Salary: 3700
+[22-Jan-2025 11:41:47 Asia/Manila] Employee Mandatory Deductions: 400
+[22-Jan-2025 11:41:47 Asia/Manila] Lateness Deduction: 0
+[22-Jan-2025 11:41:47 Asia/Manila] Undertime Deduction: 0
+[22-Jan-2025 11:41:47 Asia/Manila] Net Salary: 3120
+[22-Jan-2025 11:41:47 Asia/Manila] Payroll Period: monthly
+[22-Jan-2025 11:41:47 Asia/Manila] No deductions found for employee ID: 14
+[22-Jan-2025 11:41:47 Asia/Manila] gross_salary : 4500
+[22-Jan-2025 11:41:47 Asia/Manila] Gross Salary: 4500
+[22-Jan-2025 11:41:47 Asia/Manila] MSC: 4500
+[22-Jan-2025 11:41:47 Asia/Manila] Employee SSS: 202.5
+[22-Jan-2025 11:41:47 Asia/Manila] Employer SSS: 427.5
+[22-Jan-2025 11:41:47 Asia/Manila] Employee: Sophia E Clark 
+[22-Jan-2025 11:41:47 Asia/Manila] employee_sss : 202.5
+[22-Jan-2025 11:41:47 Asia/Manila] employer_sss : 427.5
+[22-Jan-2025 11:41:47 Asia/Manila] total_sss : 630
+[22-Jan-2025 11:41:47 Asia/Manila] deductions : 0
+[22-Jan-2025 11:41:47 Asia/Manila] Gross Salary: 4500
+[22-Jan-2025 11:41:47 Asia/Manila] Employee Mandatory Deductions: 400
+[22-Jan-2025 11:41:47 Asia/Manila] Lateness Deduction: 0
+[22-Jan-2025 11:41:47 Asia/Manila] Undertime Deduction: 0
+[22-Jan-2025 11:41:47 Asia/Manila] Net Salary: 3897.5
+[22-Jan-2025 11:41:47 Asia/Manila] Payroll Period: monthly
+[22-Jan-2025 11:41:47 Asia/Manila] Deduction Type: Weekly
+[22-Jan-2025 11:41:47 Asia/Manila] Deduction Amount: 200.00
+[22-Jan-2025 11:41:47 Asia/Manila] gross_salary : 7500
+[22-Jan-2025 11:41:47 Asia/Manila] gross_salary : 7500
+[22-Jan-2025 11:41:47 Asia/Manila] gross_salary : 7500
+[22-Jan-2025 11:41:47 Asia/Manila] gross_salary : 7500
+[22-Jan-2025 11:41:47 Asia/Manila] gross_salary : 7500
+[22-Jan-2025 11:41:47 Asia/Manila] gross_salary : 7500
+[22-Jan-2025 11:41:47 Asia/Manila] gross_salary : 7500
+[22-Jan-2025 11:41:47 Asia/Manila] Gross Salary: 7500
+[22-Jan-2025 11:41:47 Asia/Manila] MSC: 7500
+[22-Jan-2025 11:41:47 Asia/Manila] Employee SSS: 337.5
+[22-Jan-2025 11:41:47 Asia/Manila] Employer SSS: 712.5
+[22-Jan-2025 11:41:47 Asia/Manila] Employee: Soraida  Ambalgan 
+[22-Jan-2025 11:41:47 Asia/Manila] employee_sss : 337.5
+[22-Jan-2025 11:41:47 Asia/Manila] employer_sss : 712.5
+[22-Jan-2025 11:41:47 Asia/Manila] total_sss : 1050
+[22-Jan-2025 11:41:47 Asia/Manila] deductions : 0
+[22-Jan-2025 11:41:47 Asia/Manila] Gross Salary: 7500
+[22-Jan-2025 11:41:47 Asia/Manila] Employee Mandatory Deductions: 400
+[22-Jan-2025 11:41:47 Asia/Manila] Lateness Deduction: 12.5
+[22-Jan-2025 11:41:47 Asia/Manila] Undertime Deduction: 0
+[22-Jan-2025 11:41:47 Asia/Manila] Net Salary: 6750
+[22-Jan-2025 11:41:47 Asia/Manila] Payroll Period: monthly
+[22-Jan-2025 11:41:47 Asia/Manila] No deductions found for employee ID: 15
+[22-Jan-2025 11:41:47 Asia/Manila] gross_salary : 4500
+[22-Jan-2025 11:41:47 Asia/Manila] Gross Salary: 4500
+[22-Jan-2025 11:41:47 Asia/Manila] MSC: 4500
+[22-Jan-2025 11:41:47 Asia/Manila] Employee SSS: 202.5
+[22-Jan-2025 11:41:47 Asia/Manila] Employer SSS: 427.5
+[22-Jan-2025 11:41:47 Asia/Manila] Employee: William S Lewis 
+[22-Jan-2025 11:41:47 Asia/Manila] employee_sss : 202.5
+[22-Jan-2025 11:41:47 Asia/Manila] employer_sss : 427.5
+[22-Jan-2025 11:41:47 Asia/Manila] total_sss : 630
+[22-Jan-2025 11:41:47 Asia/Manila] deductions : 0
+[22-Jan-2025 11:41:47 Asia/Manila] Gross Salary: 4500
+[22-Jan-2025 11:41:47 Asia/Manila] Employee Mandatory Deductions: 400
+[22-Jan-2025 11:41:47 Asia/Manila] Lateness Deduction: 0
+[22-Jan-2025 11:41:47 Asia/Manila] Undertime Deduction: 0
+[22-Jan-2025 11:41:47 Asia/Manila] Net Salary: 3897.5
+[22-Jan-2025 11:41:47 Asia/Manila] Payroll Period: monthly
